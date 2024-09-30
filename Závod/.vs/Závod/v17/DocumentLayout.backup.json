@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\Z\u00E1vod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D314E6-28B2-479C-AA2D-ECE17C1906E4}|Z\u00E1vod\\Z\u00E1vod.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\z\u00E1vod\\z\u00E1vod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D314E6-28B2-479C-AA2D-ECE17C1906E4}|Z\u00E1vod\\Z\u00E1vod.csproj|solutionrelative:z\u00E1vod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D314E6-28B2-479C-AA2D-ECE17C1906E4}|Z\u00E1vod\\Z\u00E1vod.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\z\u00E1vod\\z\u00E1vod\\zavod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D314E6-28B2-479C-AA2D-ECE17C1906E4}|Z\u00E1vod\\Z\u00E1vod.csproj|solutionrelative:z\u00E1vod\\zavod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D314E6-28B2-479C-AA2D-ECE17C1906E4}|Z\u00E1vod\\Z\u00E1vod.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\z\u00E1vod\\z\u00E1vod\\zavodnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D314E6-28B2-479C-AA2D-ECE17C1906E4}|Z\u00E1vod\\Z\u00E1vod.csproj|solutionrelative:z\u00E1vod\\zavodnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zavod.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\Z\u00E1vod\\Z\u00E1vod\\Zavod.cs",
+              "RelativeDocumentMoniker": "Z\u00E1vod\\Zavod.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\Z\u00E1vod\\Z\u00E1vod\\Zavod.cs",
+              "RelativeToolTip": "Z\u00E1vod\\Zavod.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAUwFkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:43:57.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zavodnik.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\Z\u00E1vod\\Z\u00E1vod\\Zavodnik.cs",
+              "RelativeDocumentMoniker": "Z\u00E1vod\\Zavodnik.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\Z\u00E1vod\\Z\u00E1vod\\Zavodnik.cs",
+              "RelativeToolTip": "Z\u00E1vod\\Zavodnik.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAWwFIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:43:42.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\Z\u00E1vod\\Z\u00E1vod\\Program.cs",
+              "RelativeDocumentMoniker": "Z\u00E1vod\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\Z\u00E1vod\\Z\u00E1vod\\Program.cs",
+              "RelativeToolTip": "Z\u00E1vod\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:42:53.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
