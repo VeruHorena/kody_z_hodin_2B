@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\Auto\Auto\bin\Debug\net8.0\Auto.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\Auto\Auto\bin\Debug\net8.0\Auto.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\Auto\Auto\bin\Debug\net8.0\Auto.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\Auto\Auto\bin\Debug\net8.0\Auto.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\Auto\Auto\bin\Debug\net8.0\Auto.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\Auto\Auto\obj\Debug\net8.0\Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\Auto\Auto\obj\Debug\net8.0\Auto.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\Auto\Auto\obj\Debug\net8.0\Auto.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\Auto\Auto\obj\Debug\net8.0\Auto.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\Auto\Auto\obj\Debug\net8.0\Auto.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\Auto\Auto\obj\Debug\net8.0\Auto.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\Auto\Auto\obj\Debug\net8.0\refint\Auto.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\Auto\Auto\obj\Debug\net8.0\Auto.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\Auto\Auto\obj\Debug\net8.0\Auto.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\Auto\Auto\obj\Debug\net8.0\ref\Auto.dll
