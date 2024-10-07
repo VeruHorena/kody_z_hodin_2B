@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dedicnost_dopravni_prostredky\dedicnost_dopravni_prostredky\bin\Debug\net8.0\dedicnost_dopravni_prostredky.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dedicnost_dopravni_prostredky\dedicnost_dopravni_prostredky\bin\Debug\net8.0\dedicnost_dopravni_prostredky.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dedicnost_dopravni_prostredky\dedicnost_dopravni_prostredky\bin\Debug\net8.0\dedicnost_dopravni_prostredky.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dedicnost_dopravni_prostredky\dedicnost_dopravni_prostredky\bin\Debug\net8.0\dedicnost_dopravni_prostredky.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dedicnost_dopravni_prostredky\dedicnost_dopravni_prostredky\bin\Debug\net8.0\dedicnost_dopravni_prostredky.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dedicnost_dopravni_prostredky\dedicnost_dopravni_prostredky\obj\Debug\net8.0\dedicnost_dopravni_prostredky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dedicnost_dopravni_prostredky\dedicnost_dopravni_prostredky\obj\Debug\net8.0\dedicnost_dopravni_prostredky.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dedicnost_dopravni_prostredky\dedicnost_dopravni_prostredky\obj\Debug\net8.0\dedicnost_dopravni_prostredky.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dedicnost_dopravni_prostredky\dedicnost_dopravni_prostredky\obj\Debug\net8.0\dedicnost_dopravni_prostredky.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dedicnost_dopravni_prostredky\dedicnost_dopravni_prostredky\obj\Debug\net8.0\dedicnost_dopravni_prostredky.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dedicnost_dopravni_prostredky\dedicnost_dopravni_prostredky\obj\Debug\net8.0\dedicnost_dopravni_prostredky.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dedicnost_dopravni_prostredky\dedicnost_dopravni_prostredky\obj\Debug\net8.0\refint\dedicnost_dopravni_prostredky.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dedicnost_dopravni_prostredky\dedicnost_dopravni_prostredky\obj\Debug\net8.0\dedicnost_dopravni_prostredky.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dedicnost_dopravni_prostredky\dedicnost_dopravni_prostredky\obj\Debug\net8.0\dedicnost_dopravni_prostredky.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dedicnost_dopravni_prostredky\dedicnost_dopravni_prostredky\obj\Debug\net8.0\ref\dedicnost_dopravni_prostredky.dll

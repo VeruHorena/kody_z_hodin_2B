@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dedicnost_dopravni_prostredky/1.0.0": {
+        "runtime": {
+          "dedicnost_dopravni_prostredky.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dedicnost_dopravni_prostredky/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

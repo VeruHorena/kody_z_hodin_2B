@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|solutionrelative:dedicnost_dopravni_prostredky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\dopravniprostredek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|solutionrelative:dedicnost_dopravni_prostredky\\dopravniprostredek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|solutionrelative:dedicnost_dopravni_prostredky\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\pozemniprostredek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|solutionrelative:dedicnost_dopravni_prostredky\\pozemniprostredek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\letadlo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|solutionrelative:dedicnost_dopravni_prostredky\\letadlo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\helikoptera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|solutionrelative:dedicnost_dopravni_prostredky\\helikoptera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\motorka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|solutionrelative:dedicnost_dopravni_prostredky\\motorka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\vzdusnyprostredek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B38BB9C-A188-4219-8C94-320B15BD4F73}|dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky.csproj|solutionrelative:dedicnost_dopravni_prostredky\\vzdusnyprostredek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Letadlo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\Letadlo.cs",
+              "RelativeDocumentMoniker": "dedicnost_dopravni_prostredky\\Letadlo.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\Letadlo.cs",
+              "RelativeToolTip": "dedicnost_dopravni_prostredky\\Letadlo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:31:32.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Helikoptera.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\Helikoptera.cs",
+              "RelativeDocumentMoniker": "dedicnost_dopravni_prostredky\\Helikoptera.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\Helikoptera.cs",
+              "RelativeToolTip": "dedicnost_dopravni_prostredky\\Helikoptera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:31:18.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Motorka.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\Motorka.cs",
+              "RelativeDocumentMoniker": "dedicnost_dopravni_prostredky\\Motorka.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\Motorka.cs",
+              "RelativeToolTip": "dedicnost_dopravni_prostredky\\Motorka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:31:06.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\Auto.cs",
+              "RelativeDocumentMoniker": "dedicnost_dopravni_prostredky\\Auto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\Auto.cs",
+              "RelativeToolTip": "dedicnost_dopravni_prostredky\\Auto.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:30:55.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VzdusnyProstredek.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\VzdusnyProstredek.cs",
+              "RelativeDocumentMoniker": "dedicnost_dopravni_prostredky\\VzdusnyProstredek.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\VzdusnyProstredek.cs",
+              "RelativeToolTip": "dedicnost_dopravni_prostredky\\VzdusnyProstredek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:30:45.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PozemniProstredek.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\PozemniProstredek.cs",
+              "RelativeDocumentMoniker": "dedicnost_dopravni_prostredky\\PozemniProstredek.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\PozemniProstredek.cs",
+              "RelativeToolTip": "dedicnost_dopravni_prostredky\\PozemniProstredek.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:30:33.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DopravniProstredek.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\DopravniProstredek.cs",
+              "RelativeDocumentMoniker": "dedicnost_dopravni_prostredky\\DopravniProstredek.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\DopravniProstredek.cs",
+              "RelativeToolTip": "dedicnost_dopravni_prostredky\\DopravniProstredek.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA7wC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:30:12.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\Program.cs",
+              "RelativeDocumentMoniker": "dedicnost_dopravni_prostredky\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\dedicnost_dopravni_prostredky\\dedicnost_dopravni_prostredky\\Program.cs",
+              "RelativeToolTip": "dedicnost_dopravni_prostredky\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:29:25.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
