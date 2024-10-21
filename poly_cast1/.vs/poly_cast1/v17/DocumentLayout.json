@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\poly_cast1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE077AF2-601F-4019-AAB7-F5BBFE14C5BF}|poly_cast1\\poly_cast1.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\poly_cast1\\poly_cast1\\kocka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE077AF2-601F-4019-AAB7-F5BBFE14C5BF}|poly_cast1\\poly_cast1.csproj|solutionrelative:poly_cast1\\kocka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE077AF2-601F-4019-AAB7-F5BBFE14C5BF}|poly_cast1\\poly_cast1.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\poly_cast1\\poly_cast1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE077AF2-601F-4019-AAB7-F5BBFE14C5BF}|poly_cast1\\poly_cast1.csproj|solutionrelative:poly_cast1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE077AF2-601F-4019-AAB7-F5BBFE14C5BF}|poly_cast1\\poly_cast1.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\poly_cast1\\poly_cast1\\pes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE077AF2-601F-4019-AAB7-F5BBFE14C5BF}|poly_cast1\\poly_cast1.csproj|solutionrelative:poly_cast1\\pes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE077AF2-601F-4019-AAB7-F5BBFE14C5BF}|poly_cast1\\poly_cast1.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\poly_cast1\\poly_cast1\\zvire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE077AF2-601F-4019-AAB7-F5BBFE14C5BF}|poly_cast1\\poly_cast1.csproj|solutionrelative:poly_cast1\\zvire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kocka.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\poly_cast1\\poly_cast1\\Kocka.cs",
+              "RelativeDocumentMoniker": "poly_cast1\\Kocka.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\poly_cast1\\poly_cast1\\Kocka.cs",
+              "RelativeToolTip": "poly_cast1\\Kocka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:43:26.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pes.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\poly_cast1\\poly_cast1\\Pes.cs",
+              "RelativeDocumentMoniker": "poly_cast1\\Pes.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\poly_cast1\\poly_cast1\\Pes.cs",
+              "RelativeToolTip": "poly_cast1\\Pes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:43:21.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zvire.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\poly_cast1\\poly_cast1\\Zvire.cs",
+              "RelativeDocumentMoniker": "poly_cast1\\Zvire.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\poly_cast1\\poly_cast1\\Zvire.cs",
+              "RelativeToolTip": "poly_cast1\\Zvire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:43:16.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\poly_cast1\\poly_cast1\\Program.cs",
+              "RelativeDocumentMoniker": "poly_cast1\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\poly_cast1\\poly_cast1\\Program.cs",
+              "RelativeToolTip": "poly_cast1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:42:57.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
