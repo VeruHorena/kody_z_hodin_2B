@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\dict\dict\bin\Debug\net8.0\dict.exe
+C:\Users\admin\Desktop\dict\dict\bin\Debug\net8.0\dict.deps.json
+C:\Users\admin\Desktop\dict\dict\bin\Debug\net8.0\dict.runtimeconfig.json
+C:\Users\admin\Desktop\dict\dict\bin\Debug\net8.0\dict.dll
+C:\Users\admin\Desktop\dict\dict\bin\Debug\net8.0\dict.pdb
+C:\Users\admin\Desktop\dict\dict\obj\Debug\net8.0\dict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dict\dict\obj\Debug\net8.0\dict.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dict\dict\obj\Debug\net8.0\dict.AssemblyInfo.cs
+C:\Users\admin\Desktop\dict\dict\obj\Debug\net8.0\dict.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dict\dict\obj\Debug\net8.0\dict.dll
+C:\Users\admin\Desktop\dict\dict\obj\Debug\net8.0\refint\dict.dll
+C:\Users\admin\Desktop\dict\dict\obj\Debug\net8.0\dict.pdb
+C:\Users\admin\Desktop\dict\dict\obj\Debug\net8.0\dict.genruntimeconfig.cache
+C:\Users\admin\Desktop\dict\dict\obj\Debug\net8.0\ref\dict.dll
