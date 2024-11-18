@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha5\uloha5\bin\Debug\net8.0\uloha5.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha5\uloha5\bin\Debug\net8.0\uloha5.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha5\uloha5\bin\Debug\net8.0\uloha5.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha5\uloha5\bin\Debug\net8.0\uloha5.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha5\uloha5\bin\Debug\net8.0\uloha5.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha5\uloha5\obj\Debug\net8.0\uloha5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha5\uloha5\obj\Debug\net8.0\uloha5.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha5\uloha5\obj\Debug\net8.0\uloha5.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha5\uloha5\obj\Debug\net8.0\uloha5.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha5\uloha5\obj\Debug\net8.0\uloha5.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha5\uloha5\obj\Debug\net8.0\refint\uloha5.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha5\uloha5\obj\Debug\net8.0\uloha5.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha5\uloha5\obj\Debug\net8.0\uloha5.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha5\uloha5\obj\Debug\net8.0\ref\uloha5.dll

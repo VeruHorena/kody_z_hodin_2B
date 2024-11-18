@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\dyn_struktury\\ukol7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7E6792-6261-416A-BA1B-F288270D8ADA}|ukol7\\ukol7.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\dyn_struktury\\ukol7\\ukol7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7E6792-6261-416A-BA1B-F288270D8ADA}|ukol7\\ukol7.csproj|solutionrelative:ukol7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\dyn_struktury\\ukol7\\ukol7\\Program.cs",
+              "RelativeDocumentMoniker": "ukol7\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\dyn_struktury\\ukol7\\ukol7\\Program.cs",
+              "RelativeToolTip": "ukol7\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:12:59.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

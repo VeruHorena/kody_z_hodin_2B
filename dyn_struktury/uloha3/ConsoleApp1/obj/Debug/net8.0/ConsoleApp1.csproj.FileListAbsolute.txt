@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha3\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha3\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha3\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha3\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha3\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha3\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha3\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha3\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha3\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha3\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha3\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha3\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha3\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\uloha3\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

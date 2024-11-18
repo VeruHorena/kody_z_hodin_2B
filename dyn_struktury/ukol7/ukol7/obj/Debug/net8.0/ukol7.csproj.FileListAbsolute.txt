@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\ukol7\ukol7\obj\Debug\net8.0\ukol7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\ukol7\ukol7\obj\Debug\net8.0\ukol7.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\ukol7\ukol7\obj\Debug\net8.0\ukol7.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\ukol7\ukol7\obj\Debug\net8.0\ukol7.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\ukol7\ukol7\bin\Debug\net8.0\ukol7.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\ukol7\ukol7\bin\Debug\net8.0\ukol7.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\ukol7\ukol7\bin\Debug\net8.0\ukol7.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\ukol7\ukol7\bin\Debug\net8.0\ukol7.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\ukol7\ukol7\bin\Debug\net8.0\ukol7.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\ukol7\ukol7\obj\Debug\net8.0\ukol7.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\ukol7\ukol7\obj\Debug\net8.0\refint\ukol7.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\ukol7\ukol7\obj\Debug\net8.0\ukol7.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\ukol7\ukol7\obj\Debug\net8.0\ukol7.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\dyn_struktury\ukol7\ukol7\obj\Debug\net8.0\ref\ukol7.dll
