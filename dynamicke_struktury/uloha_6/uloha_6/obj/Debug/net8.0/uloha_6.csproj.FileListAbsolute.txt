@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dynamicke_struktury\uloha_6\uloha_6\bin\Debug\net8.0\uloha_6.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dynamicke_struktury\uloha_6\uloha_6\bin\Debug\net8.0\uloha_6.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dynamicke_struktury\uloha_6\uloha_6\bin\Debug\net8.0\uloha_6.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dynamicke_struktury\uloha_6\uloha_6\bin\Debug\net8.0\uloha_6.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dynamicke_struktury\uloha_6\uloha_6\bin\Debug\net8.0\uloha_6.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dynamicke_struktury\uloha_6\uloha_6\obj\Debug\net8.0\uloha_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dynamicke_struktury\uloha_6\uloha_6\obj\Debug\net8.0\uloha_6.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dynamicke_struktury\uloha_6\uloha_6\obj\Debug\net8.0\uloha_6.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dynamicke_struktury\uloha_6\uloha_6\obj\Debug\net8.0\uloha_6.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dynamicke_struktury\uloha_6\uloha_6\obj\Debug\net8.0\uloha_6.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dynamicke_struktury\uloha_6\uloha_6\obj\Debug\net8.0\uloha_6.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dynamicke_struktury\uloha_6\uloha_6\obj\Debug\net8.0\refint\uloha_6.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dynamicke_struktury\uloha_6\uloha_6\obj\Debug\net8.0\uloha_6.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dynamicke_struktury\uloha_6\uloha_6\obj\Debug\net8.0\uloha_6.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\kody_z_hodin_2B\dynamicke_struktury\uloha_6\uloha_6\obj\Debug\net8.0\ref\uloha_6.dll
