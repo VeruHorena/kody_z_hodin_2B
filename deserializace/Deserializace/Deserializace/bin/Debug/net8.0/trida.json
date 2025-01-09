@@ -1,0 +1,15 @@
+{
+  "Nazev": "3.A",
+  "SeznamStudentu": [
+    {
+      "Jmeno": "Jan",
+      "Prijmeni": "Novak",
+      "Znamky": [1, 2, 3]
+    },
+    {
+      "Jmeno": "Petr",
+      "Prijmeni": "Svoboda",
+      "Znamky": [3, 3, 4]
+    }
+  ]
+}

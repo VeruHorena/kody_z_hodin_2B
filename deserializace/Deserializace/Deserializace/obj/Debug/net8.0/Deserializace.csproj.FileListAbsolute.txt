@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\deserializace\Deserializace\Deserializace\obj\Debug\net8.0\Deserializace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\deserializace\Deserializace\Deserializace\obj\Debug\net8.0\Deserializace.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\deserializace\Deserializace\Deserializace\obj\Debug\net8.0\Deserializace.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\deserializace\Deserializace\Deserializace\obj\Debug\net8.0\Deserializace.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\deserializace\Deserializace\Deserializace\bin\Debug\net8.0\Deserializace.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\deserializace\Deserializace\Deserializace\bin\Debug\net8.0\Deserializace.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\deserializace\Deserializace\Deserializace\bin\Debug\net8.0\Deserializace.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\deserializace\Deserializace\Deserializace\bin\Debug\net8.0\Deserializace.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\deserializace\Deserializace\Deserializace\bin\Debug\net8.0\Deserializace.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\deserializace\Deserializace\Deserializace\obj\Debug\net8.0\Deserializace.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\deserializace\Deserializace\Deserializace\obj\Debug\net8.0\refint\Deserializace.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\deserializace\Deserializace\Deserializace\obj\Debug\net8.0\Deserializace.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\deserializace\Deserializace\Deserializace\obj\Debug\net8.0\Deserializace.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\2.rocnik\kody_z_hodin_2B\deserializace\Deserializace\Deserializace\obj\Debug\net8.0\ref\Deserializace.dll
