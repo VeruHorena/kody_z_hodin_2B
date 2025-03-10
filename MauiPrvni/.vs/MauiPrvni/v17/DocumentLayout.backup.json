@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\MauiPrvni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{110E7A29-0E0B-4CA3-BF60-F20268FA4B9A}|MauiPrvni\\MauiPrvni.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\mauiprvni\\mauiprvni\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{110E7A29-0E0B-4CA3-BF60-F20268FA4B9A}|MauiPrvni\\MauiPrvni.csproj|solutionrelative:mauiprvni\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110E7A29-0E0B-4CA3-BF60-F20268FA4B9A}|MauiPrvni\\MauiPrvni.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\mauiprvni\\mauiprvni\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110E7A29-0E0B-4CA3-BF60-F20268FA4B9A}|MauiPrvni\\MauiPrvni.csproj|solutionrelative:mauiprvni\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110E7A29-0E0B-4CA3-BF60-F20268FA4B9A}|MauiPrvni\\MauiPrvni.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\mauiprvni\\mauiprvni\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110E7A29-0E0B-4CA3-BF60-F20268FA4B9A}|MauiPrvni\\MauiPrvni.csproj|solutionrelative:mauiprvni\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110E7A29-0E0B-4CA3-BF60-F20268FA4B9A}|MauiPrvni\\MauiPrvni.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\mauiprvni\\mauiprvni\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{110E7A29-0E0B-4CA3-BF60-F20268FA4B9A}|MauiPrvni\\MauiPrvni.csproj|solutionrelative:mauiprvni\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\MauiPrvni\\MauiPrvni\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiPrvni\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\MauiPrvni\\MauiPrvni\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiPrvni\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:34:22.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\MauiPrvni\\MauiPrvni\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiPrvni\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\MauiPrvni\\MauiPrvni\\MainPage.xaml",
+              "RelativeToolTip": "MauiPrvni\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-27T09:30:16.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\MauiPrvni\\MauiPrvni\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiPrvni\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\MauiPrvni\\MauiPrvni\\MauiProgram.cs",
+              "RelativeToolTip": "MauiPrvni\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:11:07.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\MauiPrvni\\MauiPrvni\\App.xaml",
+              "RelativeDocumentMoniker": "MauiPrvni\\App.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\MauiPrvni\\MauiPrvni\\App.xaml",
+              "RelativeToolTip": "MauiPrvni\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-27T07:39:25.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="kalkulacka.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20">
+            <Label Text="Jednoduchá kalkulačka" FontSize="24" HorizontalOptions="Center"/>
+
+            <Entry x:Name="entryNum1" Placeholder="První číslo" Keyboard="Numeric"/>
+            <Entry x:Name="entryNum2" Placeholder="Druhé číslo" Keyboard="Numeric"/>
+
+            <Button Text="+" Clicked="OnAddClicked"/>
+            <Button Text="-" Clicked="OnSubtractClicked"/>
+            <Button Text="*" Clicked="OnMultiplyClicked"/>
+            <Button Text="/" Clicked="OnDivideClicked"/>
+            <Button Text="Vymaz obsah" Clicked="vymaz"/>
+
+            <Label x:Name="labelResult" Text="Výsledek: " FontSize="18"/>
+            <Label Text="Historie výpočtů" FontSize="18"/>
+
+            <ListView x:Name="HistoryListView">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding}"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\kalkulacka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9178F2E0-4C28-4A51-864A-C8483CB4BC5D}|kalkulacka\\kalkulacka.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\kalkulacka\\kalkulacka\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9178F2E0-4C28-4A51-864A-C8483CB4BC5D}|kalkulacka\\kalkulacka.csproj|solutionrelative:kalkulacka\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9178F2E0-4C28-4A51-864A-C8483CB4BC5D}|kalkulacka\\kalkulacka.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\kalkulacka\\kalkulacka\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9178F2E0-4C28-4A51-864A-C8483CB4BC5D}|kalkulacka\\kalkulacka.csproj|solutionrelative:kalkulacka\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9178F2E0-4C28-4A51-864A-C8483CB4BC5D}|kalkulacka\\kalkulacka.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\kalkulacka\\kalkulacka\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9178F2E0-4C28-4A51-864A-C8483CB4BC5D}|kalkulacka\\kalkulacka.csproj|solutionrelative:kalkulacka\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\kalkulacka\\kalkulacka\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "kalkulacka\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\kalkulacka\\kalkulacka\\MauiProgram.cs",
+              "RelativeToolTip": "kalkulacka\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:49:41.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\kalkulacka\\kalkulacka\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "kalkulacka\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\kalkulacka\\kalkulacka\\MainPage.xaml.cs*",
+              "RelativeToolTip": "kalkulacka\\MainPage.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:25:11.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\kalkulacka\\kalkulacka\\MainPage.xaml",
+              "RelativeDocumentMoniker": "kalkulacka\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\kalkulacka\\kalkulacka\\MainPage.xaml",
+              "RelativeToolTip": "kalkulacka\\MainPage.xaml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAnwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-23T17:24:12.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

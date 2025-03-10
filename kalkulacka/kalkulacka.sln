@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kalkulacka", "kalkulacka\kalkulacka.csproj", "{9178F2E0-4C28-4A51-864A-C8483CB4BC5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9178F2E0-4C28-4A51-864A-C8483CB4BC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9178F2E0-4C28-4A51-864A-C8483CB4BC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9178F2E0-4C28-4A51-864A-C8483CB4BC5D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9178F2E0-4C28-4A51-864A-C8483CB4BC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9178F2E0-4C28-4A51-864A-C8483CB4BC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9178F2E0-4C28-4A51-864A-C8483CB4BC5D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94ED9B7D-67A0-43DE-9C8E-DD7552742E68}
+	EndGlobalSection
+EndGlobal
