@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\Eshop\\obchod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58E852B2-E91C-48C5-8D49-0943685E9A1D}|obchod\\obchod.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\eshop\\obchod\\obchod\\kosikpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E852B2-E91C-48C5-8D49-0943685E9A1D}|obchod\\obchod.csproj|solutionrelative:obchod\\kosikpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E852B2-E91C-48C5-8D49-0943685E9A1D}|obchod\\obchod.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\eshop\\obchod\\obchod\\kosikpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58E852B2-E91C-48C5-8D49-0943685E9A1D}|obchod\\obchod.csproj|solutionrelative:obchod\\kosikpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E852B2-E91C-48C5-8D49-0943685E9A1D}|obchod\\obchod.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\eshop\\obchod\\obchod\\kosik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E852B2-E91C-48C5-8D49-0943685E9A1D}|obchod\\obchod.csproj|solutionrelative:obchod\\kosik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E852B2-E91C-48C5-8D49-0943685E9A1D}|obchod\\obchod.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\eshop\\obchod\\obchod\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E852B2-E91C-48C5-8D49-0943685E9A1D}|obchod\\obchod.csproj|solutionrelative:obchod\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E852B2-E91C-48C5-8D49-0943685E9A1D}|obchod\\obchod.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\eshop\\obchod\\obchod\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58E852B2-E91C-48C5-8D49-0943685E9A1D}|obchod\\obchod.csproj|solutionrelative:obchod\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E852B2-E91C-48C5-8D49-0943685E9A1D}|obchod\\obchod.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\eshop\\obchod\\obchod\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E852B2-E91C-48C5-8D49-0943685E9A1D}|obchod\\obchod.csproj|solutionrelative:obchod\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KosikPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\Eshop\\obchod\\obchod\\KosikPage.xaml.cs",
+              "RelativeDocumentMoniker": "obchod\\KosikPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\Eshop\\obchod\\obchod\\KosikPage.xaml.cs",
+              "RelativeToolTip": "obchod\\KosikPage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:15:53.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KosikPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\Eshop\\obchod\\obchod\\KosikPage.xaml",
+              "RelativeDocumentMoniker": "obchod\\KosikPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\Eshop\\obchod\\obchod\\KosikPage.xaml",
+              "RelativeToolTip": "obchod\\KosikPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-14T13:15:02.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\Eshop\\obchod\\obchod\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "obchod\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\Eshop\\obchod\\obchod\\MainPage.xaml.cs",
+              "RelativeToolTip": "obchod\\MainPage.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:09:06.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\Eshop\\obchod\\obchod\\MainPage.xaml",
+              "RelativeDocumentMoniker": "obchod\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\Eshop\\obchod\\obchod\\MainPage.xaml",
+              "RelativeToolTip": "obchod\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-14T13:08:31.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kosik.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\Eshop\\obchod\\obchod\\Kosik.cs",
+              "RelativeDocumentMoniker": "obchod\\Kosik.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\Eshop\\obchod\\obchod\\Kosik.cs",
+              "RelativeToolTip": "obchod\\Kosik.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:08:03.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produkt.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\Eshop\\obchod\\obchod\\Produkt.cs",
+              "RelativeDocumentMoniker": "obchod\\Produkt.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\Eshop\\obchod\\obchod\\Produkt.cs",
+              "RelativeToolTip": "obchod\\Produkt.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:07:25.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
