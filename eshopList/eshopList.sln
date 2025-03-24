@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eshopList", "eshopList\eshopList.csproj", "{0FAA8FA8-B095-42EF-9E93-80A3941E459B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FAA8FA8-B095-42EF-9E93-80A3941E459B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FAA8FA8-B095-42EF-9E93-80A3941E459B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FAA8FA8-B095-42EF-9E93-80A3941E459B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0FAA8FA8-B095-42EF-9E93-80A3941E459B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FAA8FA8-B095-42EF-9E93-80A3941E459B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FAA8FA8-B095-42EF-9E93-80A3941E459B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61435AA1-F046-49E9-9FAC-F916A0BCCA77}
+	EndGlobalSection
+EndGlobal

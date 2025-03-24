@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\eshopList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\eshoplist\\eshoplist\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|solutionrelative:eshoplist\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\eshoplist\\eshoplist\\kosik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|solutionrelative:eshoplist\\kosik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\eshoplist\\eshoplist\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|solutionrelative:eshoplist\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\eshopList\\eshopList\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "eshopList\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\eshopList\\eshopList\\MainViewModel.cs*",
+              "RelativeToolTip": "eshopList\\MainViewModel.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:23:54.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kosik.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\eshopList\\eshopList\\Kosik.cs",
+              "RelativeDocumentMoniker": "eshopList\\Kosik.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\eshopList\\eshopList\\Kosik.cs",
+              "RelativeToolTip": "eshopList\\Kosik.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:23:04.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produkt.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\eshopList\\eshopList\\Produkt.cs",
+              "RelativeDocumentMoniker": "eshopList\\Produkt.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\eshopList\\eshopList\\Produkt.cs",
+              "RelativeToolTip": "eshopList\\Produkt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:22:31.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
