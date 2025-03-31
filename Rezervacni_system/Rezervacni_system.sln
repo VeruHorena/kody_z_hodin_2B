@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rezervacni_system", "Rezervacni_system\Rezervacni_system.csproj", "{FAFD887A-B3CB-441F-93D6-040321A6E68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAFD887A-B3CB-441F-93D6-040321A6E68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFD887A-B3CB-441F-93D6-040321A6E68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFD887A-B3CB-441F-93D6-040321A6E68F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FAFD887A-B3CB-441F-93D6-040321A6E68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFD887A-B3CB-441F-93D6-040321A6E68F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFD887A-B3CB-441F-93D6-040321A6E68F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAE745E1-24E0-42EB-A071-68009CFE0029}
+	EndGlobalSection
+EndGlobal

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\eshopList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\eshoplist\\eshoplist\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|solutionrelative:eshoplist\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\eshoplist\\eshoplist\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|solutionrelative:eshoplist\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\eshoplist\\eshoplist\\kosik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|solutionrelative:eshoplist\\kosik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\eshoplist\\eshoplist\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|solutionrelative:eshoplist\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\eshoplist\\eshoplist\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAA8FA8-B095-42EF-9E93-80A3941E459B}|eshopList\\eshopList.csproj|solutionrelative:eshoplist\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,16 +22,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\eshopList\\eshopList\\MainViewModel.cs",
               "RelativeDocumentMoniker": "eshopList\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\eshopList\\eshopList\\MainViewModel.cs*",
-              "RelativeToolTip": "eshopList\\MainViewModel.cs*",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\eshopList\\eshopList\\MainViewModel.cs",
+              "RelativeToolTip": "eshopList\\MainViewModel.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAqwBQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T11:23:54.586Z",
@@ -52,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Produkt.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\eshopList\\eshopList\\Produkt.cs",
               "RelativeDocumentMoniker": "eshopList\\Produkt.cs",
