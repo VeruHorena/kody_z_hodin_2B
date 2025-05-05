@@ -1,0 +1,1 @@
+C:\Users\admin\source\repos\Databaze\Databaze\MauiDbApp.csproj;x64

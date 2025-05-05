@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RezervacniSystem2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+7a43227c69c95ffa4170d7bf021581ee6acb3285")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+5ed7ea1ad39dd4683ffb8486d7f7761df8736f0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RezervacniSystem2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RezervacniSystem2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

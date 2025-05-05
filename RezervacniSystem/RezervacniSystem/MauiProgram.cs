@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace RezervacniSystem
+namespace RezervacniSystem2
 {
     public static class MauiProgram
     {
